@@ -21,7 +21,7 @@ O teste não precisa estar 100% completo, iremos avaliar até o ponto onde você
 
 # Como executar o projeto
 ## Back end
-Pré-requisitos: Java 17, Docker e Postgre
+Pré-requisitos: Java 17 e Docker
 
 ```bash
 Ao executar o sistema rodar o docker embarcado.
